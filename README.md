@@ -28,10 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=krutikapatil19&show_icons=true&theme=radical" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikaPatil19&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikapatil19&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikapatil19&theme=radical)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikaPatil19&theme=radical" />
