@@ -28,6 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=krutikapatil19&show_icons=true&theme=radical" />
 </p>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikapatil19&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikapatil19&theme=radical)
 
 <!---
 krutikapatil19/krutikapatil19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
