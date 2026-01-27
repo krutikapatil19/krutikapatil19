@@ -20,6 +20,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krutikapatil19&show_icons=true&theme=radical)
 
 <!---
 krutikapatil19/krutikapatil19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
