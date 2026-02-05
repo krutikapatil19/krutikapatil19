@@ -5,7 +5,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a self-taught designer and also an artist.
 
-### 🚀 Languages and Tools
+### 🚀Languages and Tools
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
