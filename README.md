@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java , DSA , Web development
 - 💞️ I’m looking to collaborate on Web Development and UI/UX design Projects.
 - 😄 Pronouns:She/Her
-- ⚡ Fun fact: I'm a self-taught designer and also an artist.
+- ⚡ Fun fact :I'm a self-taught designer and also an artist.
 
 ### 🚀Languages and Tools
 
