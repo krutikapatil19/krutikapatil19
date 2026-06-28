@@ -36,6 +36,14 @@
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Krutika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krutikapatil19&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=krutikapatil19&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutikapatil19&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ## 📊 GitHub Stats
 
