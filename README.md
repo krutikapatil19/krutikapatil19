@@ -45,8 +45,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutikapatil19&layout=compact&theme=tokyonight&hide_border=true)
 
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikaPatil19&theme=tokyonight" />
   <br/>
