@@ -1,9 +1,24 @@
-- 👋 Hi, I’m Krutika Patil.
-- 👀 I’m interested in Graphic designing, UI/UX, web development
-- 🌱 I’m currently learning Java , DSA , Web development
+<h1 align="center">Hi 👋, I'm Krutika Patil</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Flutter+Developer;React+Developer;DSA+Enthusiast;UI%2FUX+Designer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krutikapatil19&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+- 👀 I'm interested in Java Full Stack Development, Flutter, UI/UX Design, and Problem Solving.
+- 🌱 I'm currently learning Spring Boot, React, Flutter, and Advanced DSA.
 - 💞️ I’m looking to collaborate on Web Development and UI/UX design Projects.
-- 😄 Pronouns:She/Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact :I'm a self-taught designer and also an artist.
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutika-patil-427417294/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krutika_patil19/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krutikapatil.1911@gmail.com)
 
 ### 🚀Languages and Tools
 
@@ -37,21 +52,23 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 📊 GitHub Stats
-
-![Krutika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krutikapatil19&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=krutikapatil19&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutikapatil19&layout=compact&theme=tokyonight&hide_border=true)
-
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikaPatil19&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krutikaPatil19&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krutikapatil19&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krutikapatil19&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutikapatil19&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krutikapatil19&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krutikapatil19&theme=tokyonight" />
+</p>
 
 
 
