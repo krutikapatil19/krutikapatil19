@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning Spring Boot, React, Flutter, and Advanced DSA.
 - 💞️ I’m looking to collaborate on Web Development and UI/UX design Projects.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact :I'm a self-taught designer and also an artist.
+- ⚡ Fun fact : I'm a self-taught designer and also an artist.
 
 ### 🌐 Connect with Me
 
