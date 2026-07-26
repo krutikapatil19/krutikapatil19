@@ -9,10 +9,10 @@
 </p>
 
 - 👀 I'm interested in Java Full Stack Development, Flutter, UI/UX Design, and Problem Solving.
-- 🌱 I'm currently learning Spring Boot, React, Flutter, and Advanced DSA.
-- 💞️ I’m looking to collaborate on Web Development and UI/UX design Projects.
+- 🌱 I'm currently learning Spring Boot, React,and Advanced Data Structures and Algorithms.
+- 💞️ I’m looking to collaborate on Full Stack Projects.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact : I'm a self-taught designer and also an artist.
+- ⚡ Fun fact : I'm a self-taught UI/UX designer and an artist.
 
 ### 🌐 Connect with Me
 
