@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krutika Patil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Flutter+Developer;React+Developer;DSA+Enthusiast;UI%2FUX+Designer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Flutter+Developer;DSA+Enthusiast;UI%2FUX+Designer" />
 </p>
 
 <p align="center">
