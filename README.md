@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=krutikapatil19&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<h2 align="center">💫 About Me</h2>
+
 - 👩‍💻 I'm **Krutika Patil**, a passionate Software Engineer with a strong interest in **Java Full Stack Development and Problem Solving**.
 - 💻 I specialize in **Java, Spring Boot, React.js, MySQL, HTML, CSS, and JavaScript**, and enjoy building scalable, user-centric applications that solve real-world problems.
 - 🧩 I have solved **200+ Data Structures & Algorithms problems** and continuously strengthen my problem-solving and analytical skills.
