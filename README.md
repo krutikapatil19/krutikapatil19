@@ -8,11 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=krutikapatil19&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-- 👀 I'm interested in Java Full Stack Development, Flutter, UI/UX Design, and Problem Solving.
-- 🌱 I'm currently learning Spring Boot, React,and Advanced Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on Full Stack Projects.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact : I'm a self-taught UI/UX designer and an artist.
+- 👩‍💻 I'm **Krutika Patil**, a passionate Software Engineer with a strong interest in **Java Full Stack Development and Problem Solving**.
+- 💻 I specialize in **Java, Spring Boot, React.js, MySQL, HTML, CSS, and JavaScript**, and enjoy building scalable, user-centric applications that solve real-world problems.
+- 🧩 I have solved **200+ Data Structures & Algorithms problems** and continuously strengthen my problem-solving and analytical skills.
+- 🤝 I’m looking to collaborate on **Full Stack Development** and **Open Source** projects.
+- 🌱 I love learning new technologies, collaborating on impactful projects, and writing clean, maintainable, and efficient code.
+- 🎨 Fun fact: I'm a **self-taught UI/UX designer** and an **artist**, blending creativity with technology.
+
+---
 
 ### 🌐 Connect with Me
 
